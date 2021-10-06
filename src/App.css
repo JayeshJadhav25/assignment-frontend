@@ -1,0 +1,23 @@
+img{
+  height: 150px;
+  width: 200px;
+}
+#titlep{
+  margin-left: 50px;
+  margin-top: 30px;
+}
+#imaged{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+#leftside {
+  margin-top: 50px;
+}
+#topm {
+  margin-top: 30px;
+}
+
+.logout{
+  float: right;
+  margin-left: 800px;
+}
